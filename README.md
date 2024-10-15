@@ -37,11 +37,6 @@ I'm a 3rd-year web engineering student at ESGI, passionate about web development
   </a>
 </p>
 
-## Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhndev)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://asil-x.github.io/Porfolio/)
-
 
 Feel free to reach out for collaborations or just a chat. Have a nice day! (or night).
 
